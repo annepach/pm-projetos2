@@ -1,0 +1,93 @@
+#site {
+    /*largura da página */
+    width:340px;
+    /* altura da página*/
+    height:568px;
+    /* posição que a página ocupará na tela, nesse caso estamos definindo que fique centralizado na tela*/
+    /*top : posição de cima */
+    margin-top:0;
+    /* left: posição de esquerda*/
+    margin-left:auto;
+    /* bottom : posição de baixo */
+    margin-bottom:0;
+    /* right : posição de direita */
+    margin-right:auto;
+    /* cor de fundo da página */
+    background-color:#e6e6e6;
+    border-radius: 10px;
+    
+  }
+
+#corbranca {
+    margin-top:10px;
+    margin-right:10px;
+    margin-left:10px;
+    background-color:white;
+    border-radius: 10px;
+    box-shadow: 3px 6px #888888;
+    /*largura da página */
+    width:320px;
+    /* altura da página*/
+    height:350px;
+     
+}
+
+#conteudo {
+    float:right;
+    
+}
+
+h3 {
+    float: left;
+}
+img {
+    max-width: 100%;
+    margin-top:10px;
+    margin-left:10px;
+    margin-right:20px;
+ }
+ 
+ 
+
+#texto01{
+    float: left;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 14px;
+    margin-right: 15px;
+    margin-left:10px;
+    margin-top:10px;
+}
+#texto02 {
+    display:flex;
+    justify-content: space-between | space-around;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-size: 12px;
+    margin-left:10px;
+    margin-top:10px;
+    margin-top:12px;
+    
+}
+#texto03 {
+    color:red;
+    text-align: justify;
+    font-size:15px;
+    font-family: 'Open Sans';
+    font-style: oblique;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    
+    
+}
+#texto04 {
+    font-family: 'Open Sans';
+    text-align: justify;
+    font-style: normal;
+    font-size:14px;
+    margin-left:10px;
+    margin-right:15px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,18 @@
+/*testando*/
+h2 {
+    text-transform: uppercase;
+    font: 18px arial, sans-serif;
+    
+}
+
+#arredondado {
+    border-radius: 25px;
+    background: #9b59b6;
+    padding: 16px; 
+    width: 200px;
+    height: 1px;    
+}
+
+body {
+    background-color: #ecf0fa;
+}

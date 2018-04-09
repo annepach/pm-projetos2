@@ -1,0 +1,76 @@
+
+.imagem img {
+    margin: auto;
+    position: absolute; 
+	left: 160px;  
+    top: 120px; 
+    right: 140px;
+    bottom:504px; 
+}
+.linha1 {
+    margin: auto;
+    position: absolute; 
+    left: 100px;  
+    top: 241px; 
+    right: 64px;
+    bottom:423;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    border-bottom: 1px solid white;
+    border-bottom-width: medium;
+    width: 230px;
+}
+.linha1 input {
+    border:none;    
+    outline:none;
+    background:none;
+}
+
+.botao { 
+    margin: auto;
+    position: absolute; 
+    left: 110px;  
+    top: 383px; 
+    right: 64px;
+    bottom:250px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 18px;
+}
+.texto {
+    display:flex;
+    position: absolute; 
+    left: 47%;  
+    top: 410px; 
+    right: 64px;
+    bottom:234
+    font-family:'Roboto', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    color:white;
+}
+
+fieldset {
+    border: none;
+}
+
+.input_linha{
+    display: table-cell;
+    width: 50%;
+}
+body {
+       
+       background-color:#745cc1;
+ }
+
+.botao button {
+    margin: auto;
+    display:block;
+    width:200px;
+    height:40px;
+    background-color:white;
+    color:black;
+    border-radius: 40px;
+}
